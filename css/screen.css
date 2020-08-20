@@ -208,9 +208,9 @@
        width: 100%;
        left: 0;
        bottom: -120px;
-       cursor: pointer;
        color: darkslategray;
-       opacity: 0.6;
+       cursor: pointer;
+       opacity: 0.4;
        transition: all ease 0.3s;
        -webkit-transition: all ease 0.3s;
        -moz-transition: all ease 0.3s;
