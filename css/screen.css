@@ -209,6 +209,7 @@
        left: 0;
        bottom: -120px;
        cursor: pointer;
+       color: darkslategray;
        opacity: 0.6;
        transition: all ease 0.3s;
        -webkit-transition: all ease 0.3s;
